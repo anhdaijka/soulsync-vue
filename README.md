@@ -1,5 +1,7 @@
-# Nuxt Minimal Starter
-
+# It's Soul Sync but VueJS
+- Rewrite in a new fullstack teach NuxtJS 4
+- Same ideal - New look - New matching algorithm 
+- For fun.
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
